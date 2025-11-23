@@ -1,0 +1,145 @@
+## ABC INVESTMENT BANK – LEGAL SHARED SERVICES OVERVIEW
+
+1. INTRODUCTION
+
+ABC Investment Bank is a global financial institution operating across multiple business divisions. All legal support for the enterprise is centralized under Legal Shared Services. This group delivers legal services, operational capabilities, technology, and analytics to every division of the bank. The team operates through an agile delivery model organized into crews and PODs, each responsible for a set of business capabilities and applications.
+
+---
+
+2. ORGANIZATIONAL STRUCTURE
+
+---
+
+Legal Shared Services provides support in three major areas:
+
+* Legal Services
+* Legal Operations
+* Reporting and Analytics
+
+These functions are delivered through three agile crews. Each crew is divided into PODs that own applications, enhancements, incident management, and ongoing support.
+
+---
+
+3. AGILE DELIVERY MODEL
+
+---
+
+Crews:
+
+1. Legal Services Crew
+2. Legal Operations Crew
+3. Reporting Crew
+
+Each crew is made up of PODs. A POD is a cross-functional team that owns a set of applications and the business capability those applications support.
+
+---
+
+4. LEGAL SERVICES CREW
+
+---
+
+This crew manages the core lifecycle of legal work: intake, documentation, and external legal collaboration. It contains three PODs.
+
+4.1 Legal Workbench POD
+Purpose: Serves as the front-door for all legal requests.
+Responsibilities:
+
+* Intake and triage of legal requests
+* Assignment of work
+* Tracking demand across divisions
+  Business Value:
+* Prevents misrouted or lost requests
+* Faster turnaround
+* Better visibility into legal demand patterns
+
+4.2 Document Management POD (iManage)
+Purpose: Manages legal documents and emails.
+About iManage:
+
+* Cloud-native platform widely used in the legal industry for document and email management, versioning, governance, and secure collaboration.
+  Business Value:
+* Centralized repository for sensitive legal data
+* Strong search and classification features
+* Reduced compliance and operational risks
+* Secure collaboration across regions
+
+4.3 Outside Counsel and ELM POD (Passport + ELM Collaboration Portal)
+Purpose: Manages matters, legal spend, and external counsel interaction.
+About Passport:
+
+* Enterprise Legal Management platform for matter management, spend control, billing rule enforcement, and external counsel collaboration.
+  Business Value:
+* Full visibility into legal spend
+* Automated billing guideline compliance
+* Better cost control and vendor oversight
+* Enables secure invoice submission through the collaboration portal
+* Supports budgeting and forecasting
+
+---
+
+5. LEGAL OPERATIONS CREW
+
+---
+
+This crew supports communication tools, compliance requirements, and legal user productivity.
+
+5.1 External Communication POD (Diligent, Privasphere)
+Purpose: Supports secure and compliant communication with external stakeholders.
+Applications:
+
+* Diligent (UK)
+* Privasphere (Switzerland)
+  Business Value:
+* Meets country-specific regulatory requirements
+* Secure exchange of sensitive information
+* Reduces data breach risk
+
+5.2 AI Productivity Tools POD (DeepL, Harvey AI)
+Purpose: Improves legal productivity using AI tools.
+Applications:
+
+* DeepL: High-accuracy translation optimized for legal language
+* Harvey AI: AI platform for drafting, summarizing, research, and analysis
+  Business Value:
+  DeepL:
+* Faster translation of international documents
+* Reduced dependence on external translators
+  Harvey AI:
+* Speeds up legal drafting and analysis
+* Reduces repetitive work
+* Increases capacity without increasing headcount
+
+---
+
+6. REPORTING CREW
+
+---
+
+This crew delivers reporting and analytics for all legal functions.
+
+6.1 Legal Reporting POD (Microsoft Power BI)
+Purpose: Provides dashboards and analytics using data from all legal applications.
+Business Value:
+
+* Insight into legal spend, workload, and performance
+* Better forecasting and budgeting
+* Strong compliance and audit support
+* Data-driven decision making for legal leadership
+
+---
+
+7. END-TO-END VALUE
+
+---
+
+The combined crew and POD model gives ABC Investment Bank:
+
+* Consistent legal processes across the enterprise
+* Improved operational efficiency
+* Stronger compliance and risk reduction
+* Better control over external counsel spend
+* Scalable legal capacity through AI tools
+* Transparency through enterprise reporting
+
+## Overall, ABC Investment Bank benefits from a modern legal ecosystem that supports global operations and delivers high-performing, efficient legal services.
+
