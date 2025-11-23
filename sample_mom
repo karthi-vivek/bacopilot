@@ -1,0 +1,68 @@
+# **Meeting Minutes**
+
+## **1. Objectives Discussed**
+
+* Discuss the BRP 13 scope for the AI POD.
+* Confirm that DeepL and Harvey products are in scope for this POD.
+* Review the roadmap for the BRP scope.
+* Identify high-level items planned for this BRP.
+
+## **2. Business Problems Identified**
+
+* Need for dedicated focus on L3 support since both products are already in production.
+* Need to understand vendor capabilities for handling confidential data in Harvey.
+
+## **3. Functional Requirements**
+
+* DeepL:
+
+  * User training and handling.
+  * Best-practice guidance for using the DeepL translation tool for PPTs and unclassified documents.
+* Harvey:
+
+  * Define rules for data segregation.
+  * Review vendor product workspace features to determine support for data segregation.
+  * Complete POC for Word Add-in to decide whether a custom wrapper add-in is required.
+  * Establish baseline CSAT ratings for Harvey.
+
+## **4. Non-Functional Requirements**
+
+* No explicit non-functional requirements stated in the provided text.
+
+## **5. Data Requirements**
+
+* Understanding data segregation needs as we move toward confidential data usage in Harvey.
+
+## **6. Process Changes / Workflow Impacts**
+
+* L3 support will be a dedicated block for the full BRP, and all effort related to L3 will be tracked explicitly.
+
+## **7. Risks / Issues Raised**
+
+* Uncertainty around whether Harvey’s vendor workspace features adequately support data segregation.
+* Pending decision on whether a custom wrapper add-in is needed for Word (dependent on POC outcome).
+
+## **8. Dependencies Mentioned**
+
+* Dependency on vendor feature review for Harvey workspace data segregation.
+* Dependency on completion and results of the Word Add-in POC.
+* Dependency on user inputs to establish CSAT baseline.
+
+## **9. Decisions Taken**
+
+* No explicit decisions were stated in the text.
+
+## **10. Open Questions / Items Requiring Clarification**
+
+* Whether Harvey’s workspace features will fully support required data segregation.
+* Whether the custom wrapper add-in will be needed.
+* What the CSAT baseline will look like (pending user feedback).
+
+## **11. Next Steps**
+
+* Conduct user training and define DeepL best-practice guidance.
+* Review Harvey vendor features to define data segregation rules.
+* Complete the Harvey Word Add-in POC.
+* Engage users to collect baseline CSAT data.
+* Set up structure and tracking for dedicated L3 support for the full BRP.
+
