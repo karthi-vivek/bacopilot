@@ -1,0 +1,6 @@
+Here are the structured meeting notes.
+
+<PASTE NOTES HERE>
+
+Generate output in Mode <1, 2, or 3>.
+If anything is unclear, ask me questions before producing the requirements.
